@@ -35,6 +35,6 @@
     "axios": "^0.21.1",
     "lodash": "^4.17.21",
     "lodash.combinations": "^18.10.0",
-    "winston": "^3.3.3"
+    "winston": "^3.8.1"
   }
 }
